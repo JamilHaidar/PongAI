@@ -1,5 +1,5 @@
 # Exploratory Machine Learning models on the game of Pong
-In this project, I will create the game of Pong, from scratch, and attempt to apply multiple machine learning approaches on it. I chose to do this since if I use a public dataset, I would just be reusing someone's data and replicating their results. Instead, I wanted to create my own dataset.
+In this project, I will create the game of Pong, from scratch, and attempt to apply multiple machine learning approaches on it. I chose to do this since if I use a public dataset, I would just be reusing someone's data and replicating their results. Instead, I wanted to create my own dataset. The whole project report is in [this pdf](Final_Project_EECS298A.pdf).
 
 First, I create the game: 
 
